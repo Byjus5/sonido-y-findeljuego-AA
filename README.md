@@ -1,2 +1,2 @@
-# PiratesInvasionStage-5
-added sprite animation
+# InvasiónPirataEtapa-5
+animación de sprite agregada
